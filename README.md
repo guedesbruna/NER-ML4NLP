@@ -66,4 +66,7 @@ This repository is organized as follows:
     - conll2003.train.conll, conll2003.dev.conll, conll2003.test.conll
 11. Open notebook bert_finetuner.ipynb that can be found under /code/assignment/bert4ner run it as it is and see the results inside the notebook itself.
     - Disclaimer: to run this notebooks additional packages should be installed. They will be installed automatically on the first cell if the cell is not commented.
-    
+ 
+ **Disclaimer**
+ 
+ The code from this repository was based on the repository from: https://github.com/cltl/ma-ml4nlp-labs 
